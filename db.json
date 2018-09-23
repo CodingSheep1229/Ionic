@@ -1,5 +1,5 @@
-[
-"account":
+{
+"account":[
   {
     "username": "mother",
     "password": "fucker"
@@ -8,4 +8,5 @@
     "username": "goto",
     "password": "hell"
   }
-]
+ ]
+}
